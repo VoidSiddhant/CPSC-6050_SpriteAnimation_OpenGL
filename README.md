@@ -1,3 +1,4 @@
+
 There are 2 folders : 
 
 Project_Linux : Project can be run on Linux machine using the following commands. Open terminal inside the folder
@@ -12,3 +13,5 @@ Incase of any error please go to "Build" tab/option and click "Clean Solution" a
 
 Controls: 
 Press and hold "A" or "D" to move player left or right
+
+<img width="641" alt="imageUrl" src="https://github.com/VoidSiddhant/CPSC-6050_SpriteAnimation_OpenGL/assets/25640729/22fcc4d1-1c1a-4b70-bbb7-e2825ff750bf">
